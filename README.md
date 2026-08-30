@@ -62,7 +62,8 @@
 > [ Chip FilterChip ChioceChip ActionChip  Divider  DataTable
 PaginatedDataTable Stepper ]( https://github.com/shaoting0730/Flutter_learn_demo/tree/master/%E5%9F%BA%E7%A1%80Widget/mdc_demo )<br/>
 > [ 添加引导页面 appBar DatePicker BottomSheet Dialog Stepper 滚动监听 雨滴动画 密码输入框 faceID&TouchID 与webView交互 上拉抽屉 回调 event_bus传值 WillPopScope监听Android物理返回键]( https://github.com/shaoting0730/Flutter_learn_demo/tree/master/%E5%9F%BA%E7%A1%80Widget/widgets_demo )<br/>
-> [ 10 个被低估的 Flutter 组件：你不可不知的效率神器 ]( https://github.com/shaoting0730/Flutter_learn_demo/tree/master/%E5%9F%BA%E7%A1%80Widget/button_demo )   <br/>
+> [ Flutter常用组件简介 ]( https://github.com/shaoting0730/Flutter_learn_demo/blob/master/Flutter%E7%BB%84%E4%BB%B6%E7%AE%80%E4%BB%8B.md )   <br/>
+> [ 10 个被低估的 Flutter 组件：你不可不知的效率神器 ]( https://mp.weixin.qq.com/s/zCDTPNcUVWrWcbfoBCDv3Q )   <br/>
 
 
 ## 布局widget  
